@@ -11,7 +11,7 @@ import Courses from './Pages/Courses';
 
 import Search from './components/Search';
 
-import List from  './components/Search';
+import List from  './components/List';
 
 function App() {
 
